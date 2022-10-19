@@ -6,6 +6,7 @@ Mainnets:
 
 Gravity Bridge, Nomic, Ki Chain, Persistence, Crescent, Bitsong, Cyber, Rizon, Konstellation, AssetMantle, Nomic, Stride, Canto
 
+
 Specs:
 
 AMD Ryzen 9 5950X 16 Cores (Zen3)
